@@ -43,23 +43,26 @@ Install required Python packages:
 
 pip install -r requirements.txt
 
-▶️ Usage
+### ▶️ Usage
+
 Run the application:
 
-python src/word_to_markdown_gui.py
+python src/word_to_markdown.py
 
 Select a .docx file via the GUI
 
 Converted Markdown and images will be saved to markdown_output/
 
-🧰 Built With
+### 🧰 Built With
+
 python-docx
 
 Pillow (PIL)
 
 Tkinter – GUI Toolkit (comes with Python)
 
-📌 To Do
+### 📌 To Do
+
  Add drag & drop functionality
 
  Export to PDF support
@@ -68,6 +71,6 @@ Tkinter – GUI Toolkit (comes with Python)
 
  Cross-platform testing
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
