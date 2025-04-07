@@ -17,13 +17,6 @@
 
 ---
 
-## 🖼️ Demo
-
-![App Screenshot](assets/screenshot.png)  
-*Live demo of the application in action. Upload your screenshot to `assets/screenshot.png`.*
-
----
-
 ## 🛠️ Installation
 
 ### 🔧 Requirements
