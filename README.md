@@ -24,13 +24,6 @@
 
 ---
 
-## 📁 Project Structure
-
-word-to-markdown-converter/ ├── src/ │ └── word_to_markdown_gui.py ├── assets/ │ └── screenshot.png ├── .gitignore ├── LICENSE ├── README.md └── requirements.txt
-
-
----
-
 ## 🛠️ Installation
 
 ### 🔧 Requirements
